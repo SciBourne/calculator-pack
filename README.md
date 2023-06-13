@@ -19,8 +19,8 @@ Package of some calculators for a future project... maybe :)
 
 ### DistancePointToLines
 
-<img src="https://github.com/SciBourne/SciBourne/raw/main/img/hl-citadel.jpg">
+<img src="https://github.com/SciBourne/calculator-pack/raw/main/img/distance-point-to-lines.png">
 
 ### MinEnclosingCircle
 
-<img src="https://github.com/SciBourne/SciBourne/raw/main/img/hl-citadel.jpg">
+<img src="https://github.com/SciBourne/calculator-pack/raw/main/img/min-enclosing-circle.png">
