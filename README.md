@@ -10,4 +10,17 @@ Package of some calculators for a future project... maybe :)
 | Name | Description |
 |---|---|
 | DistancePointToLines | Distance from point to straight lines |
-| MinEnclosingCircle | minimum enclosing circle surrounding all points |
+| MinEnclosingCircle | Minimum enclosing circle surrounding all points |
+
+<br>
+<br>
+
+## Preview
+
+### DistancePointToLines
+
+<img src="https://github.com/SciBourne/SciBourne/raw/main/img/hl-citadel.jpg">
+
+### MinEnclosingCircle
+
+<img src="https://github.com/SciBourne/SciBourne/raw/main/img/hl-citadel.jpg">
