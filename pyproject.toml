@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "calculator-pack"
+version = "0.1.0"
+description = "Package of some calculators for a future project"
+authors = ["SciBourne <bourne-sci-hack@yandex.ru>"]
+license = "GPLv3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.24.3"
+matplotlib = "^3.7.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.2.2"
+black = "^23.1.0"
+flake8 = "^6.0.0"
+jedi = "^0.18.2"
+yapf = "^0.32.0"
+autopep8 = "^2.0.2"
+mypy = "^1.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
